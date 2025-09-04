@@ -16,4 +16,4 @@ Required only a few training epochs.
 Conclusion
 The proposed ensemble method reaches results comparable to state-of-the-art approaches in histology image classification, showing the effectiveness of combining fractal descriptors with deep learning.
 
-# This code is part of the master's thesis "Classification of Oral Cavity Dysplasia Based on Fractal Descriptors and Ensemble Learning"
+This code is part of the master's thesis "Classification of Oral Cavity Dysplasia Based on Fractal Descriptors and Ensemble Learning" (https://repositorio.ufu.br/handle/123456789/43129)
