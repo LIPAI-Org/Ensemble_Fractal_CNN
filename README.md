@@ -16,4 +16,9 @@ Required only a few training epochs.
 Conclusion
 The proposed ensemble method reaches results comparable to state-of-the-art approaches in histology image classification, showing the effectiveness of combining fractal descriptors with deep learning.
 
-This code is part of the master's thesis "Classification of Oral Cavity Dysplasia Based on Fractal Descriptors and Ensemble Learning" (https://repositorio.ufu.br/handle/123456789/43129)
+This code is part of the of research on:
+- "Classification of Oral Cavity Dysplasia Based on Fractal Descriptors and Ensemble Learning" (https://repositorio.ufu.br/handle/123456789/43129)
+- "Ensemble of handcrafted and deep learning features based on fractal geometry for the classification of histology images" (https://repositorio.ufu.br/handle/123456789/33905)
+
+Work:
+- CARVALHO, RAFAEL ; SILVA, ADRIANO ; MARTINS, ALESSANDRO ; CARDOSO, SÉRGIO ; FREIRE, GUILHERME ; R. DE FARIA, PAULO ; LOYOLA, ADRIANO ; TOSTA, THAÍNA ; NEVES, LEANDRO ; Z. DO NASCIMENTO, MARCELO . Oral Dysplasia Classification by Using Fractal Representation Images and Convolutional Neural Networks. In: 19th International Conference on Computer Vision Theory and Applications, 2024, Rome. Proceedings of the 19th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, 2024. p. 524.
